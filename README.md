@@ -37,6 +37,3 @@ The platform enables admins to manage events & speakers, while users can browse 
 - Frontend: Netlify
 - Backend: Railway
 - Database: MySQL (Railway)
-
-
-Backend: Railway
